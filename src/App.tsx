@@ -29,7 +29,7 @@ function App() {
       <div className="min-h-screen w-full flex flex-col items-center bg-[#1A1A1A] py-12 px-4">
         <div className="mb-4 text-center">
           <img
-            src="public/logo_30_red_nobg.svg"
+            src="/logo_30_red_nobg.svg"
             alt="Logo Forum EHTP"
             className="w-32 h-auto mx-auto mb-4"
           />
