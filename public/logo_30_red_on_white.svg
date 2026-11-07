@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="298.186" height="182" viewBox="0 0 298.186 182">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="149" y1="0" x2="149" y2="182" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.2" stop-color="#000000"/>
+      <stop offset="0.38" stop-color="#000000"/>
+      <stop offset="0.46" stop-color="#000000"/>
+      <stop offset="0.54" stop-color="#000000"/>
+      <stop offset="0.72" stop-color="#000000"/>
+      <stop offset="0.88" stop-color="#000000"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="149.186" y1="0" x2="149.186" y2="182" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b0018"/>
+      <stop offset="0.2" stop-color="#c41230"/>
+      <stop offset="0.38" stop-color="#e8203a"/>
+      <stop offset="0.46" stop-color="#ff3a54"/>
+      <stop offset="0.54" stop-color="#c41230"/>
+      <stop offset="0.72" stop-color="#8b0020"/>
+      <stop offset="0.88" stop-color="#c41230"/>
+      <stop offset="1" stop-color="#6b0018"/>
+    </linearGradient>
+  </defs>
+  <title>logo_30_red_on_white.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <path d="M88 17.804 L51.215 71.745 C73.126 75.471 90 98.612 90 126.609 C90 157.201 69.853 182 45 182 C20.147 182 0 157.201 0 126.609 L16 126.609 C16 151.866 32.073 166.174 45 166.174 C57.927 166.174 74 151.866 74 126.609 C74 101.351 57.927 87.043 45 87.043 C43.406 87.043 41.765 87.264 40.111 87.692 L27.729 75.444 C27.817 75.399 27.907 75.356 27.996 75.311 L27.885 75.235 L67.049 17.804 L4 17.804 L4 1.978 L88 1.978 Z" fill="url(#linear-gradient-1)"/>
+      <path d="M225.82 1.978 C267.109 10.403 298.186 47.093 298.186 91.079 C298.186 141.294 257.687 182 207.728 182 C157.769 182 117.269 141.294 117.269 91.079 C117.269 47.093 148.347 10.403 189.636 1.978 L189.636 106.332 L176.972 99.398 L176.972 25.22 C154.558 35.812 138.431 57.624 135.754 83.455 L189.636 112.251 L189.636 124.608 L135.508 95.681 C137.87 133.708 169.298 163.816 207.728 163.816 C246.135 163.816 277.548 133.742 279.942 95.746 L225.938 124.608 L225.938 112.251 L279.707 83.515 C277.047 57.658 260.915 35.82 238.484 25.22 L238.484 99.398 L225.82 106.332 Z" fill="#000000"/>
+      <path d="M208.196 120.042 L215.2 113.014 L215.2 115.829 L208.198 122.857 L208.188 122.847 L208.188 122.849 L201.186 115.821 L201.186 113.006 Z" fill="#c41230"/>
+      <path d="M215.388 108.721 L208.186 115.624 L200.986 108.721 L200.986 0 L215.388 0 Z" fill="#c41230"/>
+      <path d="M199.303 114.548 L199.186 114.764 L199.186 114.486 Z" fill="url(#linear-gradient-2)"/>
+      <path d="M217.304 114.764 L217.186 114.548 L217.304 114.486 Z" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
