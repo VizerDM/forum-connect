@@ -1,4 +1,5 @@
 import "./App.css";
+import { Analytics } from "@vercel/analytics/react";
 
 const links = [
   {
@@ -58,6 +59,7 @@ function App() {
             </a>
           ))}
         </div>
+        <Analytics />
       </div>
     </>
   );
